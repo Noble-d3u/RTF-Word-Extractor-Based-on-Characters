@@ -1,0 +1,1 @@
+# RTF-Word-Extractor-Based-on-Characters
